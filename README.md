@@ -1,4 +1,4 @@
 ### LINK DISCORD ATUALIZADO ##
 
 ## DISCORD: ##
-https://discord.gg/kmeuwvXTNH
+https://discord.gg/vQKg8KMM8A
