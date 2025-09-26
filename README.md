@@ -1,4 +1,4 @@
-### LINK DISCORD ATUALIZADO ##
+### LINK DISCORD ATUALIZADO DNV ##
 
 ## DISCORD: ##
-https://discord.gg/vQKg8KMM8A
+https://discord.gg/KsxH2z7Tg5
